@@ -1,4 +1,4 @@
-# pclviewer-MiTL
+# PclViewer-MiTL
 The repositiory is built to simulate Man in The Loop(MiTL) display systems.
 
 The scenario taken is of a LIDAR attached to a seeker kind of missiles. Automatic recognition algorithms in this seeker systems are not optimal enough to provide a good target recognition performance. By introducing a Man In the Loop in this process, where a human can take decisions on target, civilian casulalities can be decreased.
