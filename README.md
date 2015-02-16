@@ -3,7 +3,7 @@ The repositiory is built to simulate Man in The Loop(MiTL) display systems.
 The scenario taken is of a LIDAR attached to a seeker kind of missiles. Automatic recognition algorithms in this seeker systems are not optimal enough to provide a good target recognition performance. By introducing a Man In the Loop in this process, where a human can take decisions on target, civilian casulalities can be decreased. 
 Lidar attached to an aircraft or seeker missile provides a point cloud of the target environment which is beamed to pilot or ground station.
 
-1. res 
+*###1. res###* 
 This folder contains the LIDAR output point cloud files, at different zoom levels to simulate an advancing missile.
 
 2.src
