@@ -10,7 +10,7 @@ This folder contains the LIDAR output point cloud files, at different zoom level
 
 
 #####2.src
-This folder contains the source files. The code is written in C++ utilizing PCL 1.7 for processing, transformation and visualization of Point CLoud.
+This folder contains the source files. The code is written in C++ utilizing PCL 1.7 for processing, transformation and visualization of Point CLoud. pcl_visualizer_ht.cpp contains the main fucntion.
 
 
 #####3.config
