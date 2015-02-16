@@ -22,7 +22,9 @@ This folder contains the screenshot and the screencast video of the entire visua
 
 Each zoom level is displayed for 1 sec and once the man selects a target by clicking a pint on the point cloud, timer stops and program asks for the confirmation. If the human declines the target, normality resumes till the last zoom level.
 
-References:
+######References:
 MiTL Wiki http://en.wikipedia.org/wiki/Human-in-the-loop
+
 Point Cloud Library http://pointclouds.org/
+
 Trinagulation Algorithm http://pointclouds.org/documentation/tutorials/greedy_projection.php
